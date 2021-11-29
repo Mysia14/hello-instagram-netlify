@@ -1,0 +1,24 @@
+{
+  "name": "hello-instagram-netlify",
+  "version": "1.0.0",
+  "description": "Tutorial: [Using the Instagram API + Serverless Netlify to display your own Photos in 2021](https://harrisonkolor.medium.com/using-the-instagram-api-serverless-netlify-to-display-your-own-photos-in-2021-7923014522d0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sait-wbdv/hello-instagram-netlify.git"
+  },
+  "keywords": [],
+  "author": "Tony Grimes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sait-wbdv/hello-instagram-netlify/issues"
+  },
+  "homepage": "https://github.com/sait-wbdv/hello-instagram-netlify#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  }
+}
