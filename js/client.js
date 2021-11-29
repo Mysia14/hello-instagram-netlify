@@ -5,3 +5,5 @@ const init = async () => {
   const data = await response.json();
   console.log(data);
 }
+
+init();
