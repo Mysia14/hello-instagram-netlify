@@ -8,7 +8,7 @@ const init = async () => {
 
   document.querySelector('.container').innerHTML = `
     <figure>
-      <img src="${lunchFigure.media_url}" alt="Tony's image">
+      <img src="${lunchFigure.url}" alt="Tony's image">
       <figcaption>${lunchFigure.caption}</figcaption>
     </figure>
   `
